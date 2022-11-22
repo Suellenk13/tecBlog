@@ -8,6 +8,10 @@ Obs:
 
 A estrutura do site se divide em:
 
+![estrutura](https://user-images.githubusercontent.com/117856411/203186100-96cdd4db-2fed-446f-9376-6df43f9c7e16.png)
+
 Prévia do site - HOME:
 
-IN PROGRESS...
+![home](https://user-images.githubusercontent.com/117856411/203186114-326cfc19-d8ca-4b08-ad5b-8622dbb6b17f.png)
+
+Criado em: 11/2021
