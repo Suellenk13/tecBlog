@@ -1,5 +1,5 @@
 # tecBlog
-Segundo projeto do curso Desenvolvimento Web Completo 2022 de Jorge Sant Ana e Jamilton Damasceno.
+Terceiro projeto do curso Desenvolvimento Web Completo 2022 de Jorge Sant Ana e Jamilton Damasceno.
 
 Este projeto tem o intuito de desenvolver um blog chamado TecBlog, fazendo utilização de HTML e CSS.
 Obs: 
