@@ -8,7 +8,7 @@ Obs:
 
 A estrutura do site se divide em:
 
-![estrutura](https://user-images.githubusercontent.com/117856411/203186100-96cdd4db-2fed-446f-9376-6df43f9c7e16.png)
+![estrutura](https://user-images.githubusercontent.com/117856411/203186425-743c7784-3c2e-43e9-946f-0d731e6fcf9d.png)
 
 Prévia do site - HOME:
 
